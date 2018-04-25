@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 hello-world
 ===========
-Change number 6
+Change number 7
 look i made a change!
 and another change
 [![Deploy to Docker Cloud](https://files.cloud.docker.com/images/deploy-to-dockercloud.svg)](https://cloud.docker.com/stack/deploy/)
