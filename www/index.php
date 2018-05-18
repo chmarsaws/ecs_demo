@@ -21,9 +21,7 @@
 	<?php if($_ENV["HOSTNAME"]) {?><h3>My hostname is <?php echo $_ENV["HOSTNAME"]; ?></h3><?php } ?>
 	<?php
 	$links = [];
-	foreach($_ENV as $key => $value) {100/100 S&P Global Account Plan Review with Carla
-When: Tuesday, May 15, 2018 at 3:15 PM - 4:45 PM.
-Location: CONF US JFK14 10.107 Avengers AV/VC (10) 
+	foreach($_ENV as $key => $value) {
 		if(preg_match("/^(.*)_PORT_([0-9]*)_(TCP|UDP)$/", $key, $matches)) {
 			$links[] = [
 				"name" => $matches[1],
